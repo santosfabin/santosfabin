@@ -1,11 +1,11 @@
 <h1 align="center">
-	Olá, eu sou Fabiano Santos, desenvolvedor web, apaixonado em hacking e
-	entusiasta de tecnologia!
+	Olá, eu sou Fabiano Santos
 </h1>
-
-<h3>WEB</h3>
-
+<h3>
+	Desenvolvedor web, apaixonado em hacking e entusiasta de tecnologia!
+</h3>
 <div style="display: inline_block">
+	<h3>WEB</h3>
 	<br />
 	<img
 		align="center"
@@ -86,24 +86,32 @@
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 	/>
-</div>
-
-
+	</div>
 <h3>Contato</h3>
-
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/santosfabin" target="_blank">
-	<img
-		src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-		target="_blank"
-	/>
-</a>
-
-<a href="mailto:fsfabianosantos03@gmail.com">
-	<img
-		src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-		target="_blank"
-	/>
-</a>
+	<a href="https://github.com/santosfabin" target="_blank">
+		<img
+			src="https://img.shields.io/badge/-GitHub-%23212C42?style=for-the-badge&logo=github&logoColor=white"
+			target="_blank"
+		/>
+	</a>
+	<a href="https://www.linkedin.com/in/santosfabin" target="_blank">
+		<img
+			src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+			target="_blank"
+		/>
+	</a>
+	<a href="mailto:fsfabianosantos03@gmail.com">
+		<img
+			src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+			target="_blank"
+		/>
+	</a>
+	<a href="https://tryhackme.com/p/santosfabin" target="_blank">
+		<img
+			src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+			target="_blank"
+		/>
+	</a>
+	</a>
 </div>
-
