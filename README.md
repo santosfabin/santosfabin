@@ -42,9 +42,7 @@
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 	/>
-
 	<h3>Back-end</h3>
-
 	<img
 		align="center"
 		alt="Rafa-Js"
@@ -57,7 +55,7 @@
 		alt="Rafa-Js"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 	/>
 	<img
 		align="center"
@@ -66,7 +64,6 @@
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 	/>
-
 	<h3>Outros</h3>
 	<img
 		align="center"
@@ -82,7 +79,6 @@
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 	/>
-
 	<img
 		align="center"
 		alt="Rafa-Js"
@@ -93,6 +89,9 @@
 </div>
 
 
+<h3>Contato</h3>
+
+<div style="display: inline_block">
 <a href="https://www.linkedin.com/in/santosfabin" target="_blank">
 	<img
 		src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -106,4 +105,5 @@
 		target="_blank"
 	/>
 </a>
+</div>
 
