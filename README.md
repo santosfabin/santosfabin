@@ -48,6 +48,13 @@
 		alt="Rafa-Js"
 		height="30"
 		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+	/>     
+	<img
+		align="center"
+		alt="Rafa-Js"
+		height="30"
+		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 	/>
 	<img
@@ -63,14 +70,7 @@
 		height="30"
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-	/>
-	<img
-		align="center"
-		alt="Rafa-Js"
-		height="30"
-		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-	/>          
+	/>     
 	<h3>Outros</h3>
 	<img
 		align="center"
