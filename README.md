@@ -2,7 +2,7 @@
 	Olá, eu sou Fabiano Santos
 </h1>
 <h3>
-	Desenvolvedor web, apaixonado em hacking e entusiasta de tecnologia!
+	Desenvolvedor web e apaixonado em hacking!
 </h3>
 <div style="display: inline_block">
 	<h3>WEB</h3>
