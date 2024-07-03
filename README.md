@@ -50,12 +50,19 @@
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 	/>     
+        <img
+		align="center"
+		alt="Rafa-Js"
+		height="30"
+		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+	/>
 	<img
 		align="center"
 		alt="Rafa-Js"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 	/>
 	<img
 		align="center"
@@ -69,15 +76,15 @@
 		alt="Rafa-Js"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-	/>     
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+	/> 
 	<h3>Outros</h3>
 	<img
 		align="center"
 		alt="Rafa-Js"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 	/>
 	<img
 		align="center"
@@ -91,7 +98,7 @@
 		alt="Rafa-Js"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 	/>
 	</div>
 <h3>Contato</h3>
