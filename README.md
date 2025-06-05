@@ -6,7 +6,6 @@
 </h3>
 <div style="display: inline_block">
 	<h3>Front-end</h3>
-	<br />
 	<img
 		align="center"
 		alt="TypeScript"
