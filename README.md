@@ -5,8 +5,29 @@
 	Desenvolvedor web e apaixonado em hacking!
 </h3>
 <div style="display: inline_block">
-	<h3>WEB</h3>
+	<h3>Front-end</h3>
 	<br />
+	<img
+		align="center"
+		alt="TypeScript"
+		height="30"
+		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+	/>
+	<img
+		align="center"
+		alt="React"
+		height="30"
+		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+	/>
+	<img
+		align="center"
+		alt="JavaScript"
+		height="30"
+		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+	/>
 	<img
 		align="center"
 		alt="HTML5"
@@ -20,27 +41,6 @@
 		height="30"
 		width="40"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-	/>
-	<img
-		align="center"
-		alt="JavaScript"
-		height="30"
-		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-	/>
-	<img
-		align="center"
-		alt="React"
-		height="30"
-		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-	/>
-	<img
-		align="center"
-		alt="TypeScript"
-		height="30"
-		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 	/>
 	<h3>Back-end</h3>
 	<img
@@ -66,6 +66,13 @@
 	/>
 	<img
 		align="center"
+		alt="Docker"
+		height="30"
+		width="40"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+	/>
+	<img
+		align="center"
 		alt="PHP"
 		height="30"
 		width="40"
@@ -77,13 +84,6 @@
 		height="30"
 		width="40"
 		src="https://cdn.simpleicons.org/laravel/FF2D20"
-	/>
-	<img
-		align="center"
-		alt="Docker"
-		height="30"
-		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 	/>
 	<h3>Outros</h3>
 	<img
