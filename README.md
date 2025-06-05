@@ -76,7 +76,7 @@
 		alt="Laravel"
 		height="30"
 		width="40"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg"
+		src="https://cdn.simpleicons.org/laravel/FF2D20"
 	/>
 	<img
 		align="center"
