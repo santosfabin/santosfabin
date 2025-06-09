@@ -20,7 +20,7 @@ and journey, check out my portfolio website:**
   </a>
 </p>
 
---- ## 💻 Tech & Skills
+## 💻 Tech & Skills
 
 <p align="center">
   <strong>Backend & Databases:</strong><br />
@@ -110,8 +110,6 @@ and journey, check out my portfolio website:**
   />
 </p>
 
----
-
 <div align="center">
   <a href="https://github.com/santosfabin">
     <img
@@ -125,7 +123,7 @@ and journey, check out my portfolio website:**
   </a>
 </div>
 
---- ## 🔗 Let's Connect!
+## 🔗 Let's Connect!
 
 <p align="center">
   I'm always open to connecting and discussing new ideas. Feel free to reach
