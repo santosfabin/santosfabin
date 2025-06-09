@@ -91,8 +91,20 @@ and journey, check out my portfolio website:**
     height="35"
   />
   <img
+    src="https://skillicons.dev/icons?i=python"
+    title="Python"
+    width="35"
+    height="35"
+  />
+  <img
     src="https://skillicons.dev/icons?i=git"
     title="Git"
+    width="35"
+    height="35"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    title="GitHub"
     width="35"
     height="35"
   />
@@ -103,8 +115,8 @@ and journey, check out my portfolio website:**
     height="35"
   />
   <img
-    src="https://skillicons.dev/icons?i=figma"
-    title="Figma"
+    src="https://skillicons.dev/icons?i=npm"
+    title="NPM"
     width="35"
     height="35"
   />
