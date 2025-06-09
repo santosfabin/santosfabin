@@ -6,7 +6,7 @@
   height="25"
 />
 
-A Backend Developer and Cybersecurity enthusiast, passionate about building
+A Fullstack Developer and Cybersecurity enthusiast, passionate about building
 secure, scalable systems. I'm currently exploring how to merge these fields with
 AI and automation to create innovative tech solutions. **My GitHub is an open
 book, feel free to explore my projects. For a more detailed overview of my work
