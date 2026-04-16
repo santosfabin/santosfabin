@@ -25,22 +25,21 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 ### 💻 Arsenal Técnico
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" valign="top" align="center">
-        <strong>⚡ Frontend</strong><br />
-        <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,html,css" />
-      </td>
-      <td width="33%" valign="top" align="center">
-        <strong>⚙️ Backend</strong><br />
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,postgres,mysql,docker" />
-      </td>
-      <td width="33%" valign="top" align="center">
-        <strong>🛡️ Security & Ops</strong><br />
-        <img src="https://skillicons.dev/icons?i=linux,py,git,postman,npm" />
-      </td>
-    </tr>
-  </table>
+  <!-- Frontend -->
+  <p><strong>⚡ Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,html,css" alt="Frontend Skills" />
+  
+  <br/><br/>
+
+  <!-- Backend -->
+  <p><strong>⚙️ Backend & Database</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,postgres,mysql,docker" alt="Backend Skills" />
+
+<br/><br/>
+
+  <!-- Security -->
+  <p><strong>🛡️ Security & Ops</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,py,git,postman,npm" alt="Security Skills" />
 </div>
 
 ---
@@ -59,7 +58,9 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 ---
 
 ### 🛡️ Cybersecurity & Hacking
-*Segurança não é um recurso, é uma mentalidade.*
+
+_Segurança não é um recurso, é uma mentalidade._
+
 - 🔍 Foco em **Desenvolvimento Seguro** e mitigação de riscos em APIs.
 - 🛡️ Experiência com **Integrações de Pagamento** (Stripe, AbacatePay) e autenticação robusta.
 - 🐧 Usuário de ambientes **Linux** para testes e automação.
