@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Fabiano Santos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-  <h3>Full-Stack Developer | JavaScript Specialist</h3>
-  <p>Construindo aplicações seguras, escaláveis e focadas na experiência do usuário.</p>
+  <h3>Full-Stack Developer | JavaScript Specialist | Cybersecurity Enthusiast</h3>
 
   <p align="center">
     <a href="https://santosfabin.github.io/Portfolio/" target="_blank">
@@ -15,11 +14,11 @@
 
 ---
 
-### 🖋️ Sobre Mim
+### 🖋️ Professional Profile
 
-Sou um **Desenvolvedor Full-Stack com 3 anos de experiência** no ecossistema JavaScript. Minha especialidade é transformar problemas complexos em soluções digitais fluidas, utilizando **React, TypeScript e Node.js/NestJS**.
+Sou um **Desenvolvedor Full-Stack com 3 anos de experiência** focados no ecossistema JavaScript. Minha atuação envolve o desenvolvimento e manutenção de aplicações completas, com forte domínio em **React, APIs REST e integrações complexas**.
 
-Atualmente na **Plumaa**, foco na refatoração de sistemas críticos, otimização de APIs e implementação de arquiteturas resilientes. Como entusiasta de **Segurança da Informação**, aplico conceitos de proteção de dados e desenvolvimento seguro em todos os meus projetos.
+Busco sempre resolver problemas reais através de código limpo e arquiteturas escaláveis. Além do desenvolvimento, sou um entusiasta de **Segurança da Informação**, o que me permite construir sistemas com uma camada extra de proteção e consciência sobre vulnerabilidades.
 
 ---
 
@@ -59,18 +58,19 @@ Atualmente na **Plumaa**, foco na refatoração de sistemas críticos, otimizaç
 
 ---
 
-### 🛡️ Cybersecurity Mindset
-*Embora meu core seja o desenvolvimento, acredito que um bom código é, antes de tudo, um código seguro.*
-- **Security-First:** Experiência com integração de pagamentos (Stripe/AbacatePay) e rotas privadas.
-- **Tools:** Familiaridade com ambientes Linux e testes automatizados (Playwright).
-- **Hacking:** Amante de segurança ofensiva e análise de vulnerabilidades em aplicações web.
+### 🛡️ Cybersecurity & Hacking
+*Segurança não é um recurso, é uma mentalidade.*
+- 🔍 Foco em **Desenvolvimento Seguro** e mitigação de riscos em APIs.
+- 🛡️ Experiência com **Integrações de Pagamento** (Stripe, AbacatePay) e autenticação robusta.
+- 🐧 Usuário de ambientes **Linux** para testes e automação.
+- 🏗️ Prática com **Testes Automatizados** (Playwright) para garantir estabilidade e segurança.
 
 ---
 
-### 🔗 Vamos conversar?
+### 🔗 Let's Connect!
 
 <div align="center">
-  <p>Interessado em colaborar em projetos inovadores ou discutir as últimas tendências em desenvolvimento e segurança?</p>
+  <p>Sinta-se à vontade para explorar meus projetos ou entrar em contato para trocarmos ideias sobre tecnologia e segurança.</p>
 
   <a href="mailto:fsfabianosantos03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -78,8 +78,8 @@ Atualmente na **Plumaa**, foco na refatoração de sistemas críticos, otimizaç
   <a href="https://tryhackme.com/p/santosfabin" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://github.com/santosfabin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/santosfabin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
