@@ -89,8 +89,3 @@ _Segurança não é um recurso, é uma mentalidade._
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=30A3DC&height=20&section=footer" width="100%" />
-</div>
