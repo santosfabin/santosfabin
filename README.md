@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://santosfabin.github.io/Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=30A3DC&border=30A3DC" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logoColor=30A3DC&border=30A3DC" />
     </a>
     <a href="https://www.linkedin.com/in/santosfabin" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,13 +35,13 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
   <p><strong>⚙️ Backend & Database</strong></p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,docker" alt="Backend Skills" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Security -->
   <p><strong>🛡️ Security & Ops</strong></p>
   <img src="https://skillicons.dev/icons?i=linux,py,git,postman,npm" alt="Security Skills" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Learning -->
   <p><strong>📖 Currently Exploring</strong></p>
@@ -82,10 +82,14 @@ _Segurança não é um recurso, é uma mentalidade._
   <a href="mailto:fsfabianosantos03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/santosfabin" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://santosfabin.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logoColor=30A3DC&border=30A3DC" />
   </a>
   <a href="https://www.linkedin.com/in/santosfabin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://tryhackme.com/p/santosfabin" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  
 </div>
