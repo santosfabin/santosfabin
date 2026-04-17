@@ -33,13 +33,19 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 
   <!-- Backend -->
   <p><strong>⚙️ Backend & Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,postgres,mysql,docker" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,docker" alt="Backend Skills" />
 
-<br/><br/>
+  <br/><br/>
 
   <!-- Security -->
   <p><strong>🛡️ Security & Ops</strong></p>
   <img src="https://skillicons.dev/icons?i=linux,py,git,postman,npm" alt="Security Skills" />
+
+  <br/><br/>
+
+  <!-- Learning -->
+  <p><strong>📖 Currently Exploring</strong></p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ai" alt="Learning Skills" />
 </div>
 
 ---
