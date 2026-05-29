@@ -45,7 +45,7 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 
   <!-- Learning -->
   <p><strong>📖 Currently Exploring</strong></p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ai" alt="Learning Skills" />
+  <img src="https://skillicons.dev/icons?i=py,ai" alt="Learning Skills" />
 </div>
 
 ---
