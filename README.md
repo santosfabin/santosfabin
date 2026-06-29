@@ -63,17 +63,6 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 
 ---
 
-### 🛡️ Cybersecurity & Hacking
-
-_Segurança não é um recurso, é uma mentalidade._
-
-- 🔍 Foco em **Desenvolvimento Seguro** e mitigação de riscos em APIs.
-- 🛡️ Experiência com **Integrações de Pagamento** (Stripe, AbacatePay) e autenticação robusta.
-- 🐧 Usuário de ambientes **Linux** para testes e automação.
-- 🏗️ Prática com **Testes Automatizados** (Playwright) para garantir estabilidade e segurança.
-
----
-
 ### 🔗 Let's Connect!
 
 <div align="center">
