@@ -53,11 +53,6 @@ Busco sempre resolver problemas reais através de código limpo e arquiteturas e
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosfabin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfabin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=30A3DC&text_color=FFFFFF" height="170" />
-  
-  <br />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosfabin&theme=tokyonight&hide_border=true&background=0D1117&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC" alt="GitHub Streak" />
 </div>
 
